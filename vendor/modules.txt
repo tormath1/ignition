@@ -10,6 +10,8 @@ cloud.google.com/go/internal/version
 cloud.google.com/go/storage
 # github.com/BurntSushi/toml v0.3.1
 github.com/BurntSushi/toml
+# github.com/ajeddeloh/go-json v0.0.0-20200220154158-5ae607161559
+github.com/ajeddeloh/go-json
 # github.com/aws/aws-sdk-go v1.30.28
 github.com/aws/aws-sdk-go/aws
 github.com/aws/aws-sdk-go/aws/arn
@@ -59,10 +61,36 @@ github.com/aws/aws-sdk-go/service/sts/stsiface
 github.com/coreos/go-json
 # github.com/coreos/go-semver v0.3.0
 github.com/coreos/go-semver/semver
+# github.com/coreos/go-systemd v0.0.0-20181031085051-9002847aa142
+github.com/coreos/go-systemd/unit
 # github.com/coreos/go-systemd/v22 v22.0.0
 github.com/coreos/go-systemd/v22/dbus
 github.com/coreos/go-systemd/v22/journal
 github.com/coreos/go-systemd/v22/unit
+# github.com/coreos/ign-converter v0.0.0-20210702054104-d7bbcbd8997c
+github.com/coreos/ign-converter/translate/v24tov31
+github.com/coreos/ign-converter/util
+# github.com/coreos/ignition v0.35.0
+github.com/coreos/ignition/config/shared/errors
+github.com/coreos/ignition/config/shared/validations
+github.com/coreos/ignition/config/util
+github.com/coreos/ignition/config/v1
+github.com/coreos/ignition/config/v1/types
+github.com/coreos/ignition/config/v2_0
+github.com/coreos/ignition/config/v2_0/types
+github.com/coreos/ignition/config/v2_1
+github.com/coreos/ignition/config/v2_1/types
+github.com/coreos/ignition/config/v2_2
+github.com/coreos/ignition/config/v2_2/types
+github.com/coreos/ignition/config/v2_3
+github.com/coreos/ignition/config/v2_3/types
+github.com/coreos/ignition/config/v2_4
+github.com/coreos/ignition/config/v2_4/types
+github.com/coreos/ignition/config/v2_5_experimental/types
+github.com/coreos/ignition/config/validate
+github.com/coreos/ignition/config/validate/astjson
+github.com/coreos/ignition/config/validate/astnode
+github.com/coreos/ignition/config/validate/report
 # github.com/coreos/vcontext v0.0.0-20210407161507-4ee6c745c8bd
 github.com/coreos/vcontext/json
 github.com/coreos/vcontext/path
@@ -130,6 +158,8 @@ go.opencensus.io/trace
 go.opencensus.io/trace/internal
 go.opencensus.io/trace/propagation
 go.opencensus.io/trace/tracestate
+# go4.org v0.0.0-20200104003542-c7e774b10ea0
+go4.org/errorutil
 # golang.org/x/lint v0.0.0-20200302205851-738671d3881b
 golang.org/x/lint
 golang.org/x/lint/golint
